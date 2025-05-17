@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#BB86FC"  # Light Purple
+backgroundColor="#121212"
+secondaryBackgroundColor="#1F1B24"
+textColor="#FFFFFF"
+font="sans serif"
