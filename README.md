@@ -48,9 +48,7 @@ streamlit run codereviewer.py
 
 ## ✨ Author
 -Khushi — Computer Science Undergrad 👩‍💻
-
 -GitHub: @Khushi1255
-
 -LinkedIn: https://www.linkedin.com/in/khushi-kumari-235818261/
 
 
