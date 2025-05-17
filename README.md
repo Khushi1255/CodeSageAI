@@ -45,9 +45,10 @@ echo GEMINI_API_KEY=your_api_key_here > .env
 # 4. Run the Streamlit app
 streamlit run codereviewer.py
 
-✨ Author
-Khushi — Computer Science Undergrad 👩‍💻
-GitHub: @Khushi1255
-LinkedIn: https://www.linkedin.com/in/khushi-kumari-235818261/
+
+##✨ Author
+-Khushi — Computer Science Undergrad 👩‍💻
+-GitHub: @Khushi1255
+-LinkedIn: https://www.linkedin.com/in/khushi-kumari-235818261/
 
 
